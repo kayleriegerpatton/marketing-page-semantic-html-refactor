@@ -1,2 +1,2 @@
 # code-refactor
-Refactor for accessibility.
+Refactor marketing website for accessibility using semantic HTML.
