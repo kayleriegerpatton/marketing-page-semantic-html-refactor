@@ -9,6 +9,7 @@ body {
 }
 
 header {
+  display: inline-block;
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -16,6 +17,11 @@ header {
   color: #ffffff;
 }
 
+nav {
+  display: inline-block;
+  position: relative;
+  left: 200px;
+}
 header h1 {
   display: inline-block;
   font-size: 48px;
