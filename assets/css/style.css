@@ -77,17 +77,8 @@ aside {
   background-color: #2589bd;
 }
 
-.benefit-lead {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
+/*Fix this. Currently, removing the class attributes in HTML breaks this style*/
+aside div {
   margin-bottom: 32px;
   color: #ffffff;
 }
@@ -154,17 +145,7 @@ h3 {
   max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
+h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
