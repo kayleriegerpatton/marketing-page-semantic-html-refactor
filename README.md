@@ -21,6 +21,4 @@ Added comments throughout HTML and CSS files.
 
 ## Screenshots
 
-Add screenshots here. See markdown cheat-sheet on how to add images
-
-Test: ![Screenshot 2021-09-15 at 12 34 54 AM](https://user-images.githubusercontent.com/86710295/133347438-f4162d38-00c0-4c56-ae3b-bad252bce4ba.png)
+![Screenshot 2021-09-15 at 12 34 54 AM](https://user-images.githubusercontent.com/86710295/133347438-f4162d38-00c0-4c56-ae3b-bad252bce4ba.png)
