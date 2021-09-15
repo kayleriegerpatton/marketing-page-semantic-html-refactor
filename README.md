@@ -21,4 +21,5 @@ Added comments throughout HTML and CSS files.
 
 ## Screenshots
 
-![Screenshot 2021-09-15 at 12 34 54 AM](https://user-images.githubusercontent.com/86710295/133347438-f4162d38-00c0-4c56-ae3b-bad252bce4ba.png)
+Original:
+![_Users_kaylerieger_coding_bootcamp_instructor_src_class-content_01-HTML-Git-CSS_02-Homework_Develop_index html (2)](https://user-images.githubusercontent.com/86710295/133417101-a53da9f2-8819-473d-97e9-a06027b71681.png)
