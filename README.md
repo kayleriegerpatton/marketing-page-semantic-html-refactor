@@ -4,7 +4,7 @@ Refactoring a marketing webpage incorporating semantic HTML structures to improv
 
 ## GitHub Pages
 
-Add the link to the GitHub pages here
+[Marketing-page-semantic-html-refactor](https://kayleriegerpatton.github.io/marketing-page-semantic-html-refactor/ "Marketing page semantic html refactor")
 
 ## Work done
 
