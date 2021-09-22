@@ -34,11 +34,11 @@ nav {
   font-size: 20px;
 }
 
-header nav ul {
+.header nav ul {
   list-style-type: none;
 }
 
-header nav ul li {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -52,9 +52,14 @@ nav a {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
+}
+
+.main-content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 /*Benefits sidebar*/
@@ -94,12 +99,6 @@ nav a {
 .float-right {
   float: right;
   margin-left: 25px;
-}
-
-main {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
 }
 
 .services {
